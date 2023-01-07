@@ -1,4 +1,7 @@
+//this file is changed by krishna
+
 #include<stdio.h>
+#define KRISHNA
 #define CANDIDATE_COUNT
 #define CANDIDATE1 "YOGI AADITYANATH"
 #define CANDIDATE2 "PRIYANKA GANDHI"
